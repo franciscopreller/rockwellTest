@@ -1,7 +1,7 @@
-### Rockwell Lead Developer Test
+# Rockwell Lead Developer Test
 ## Written by: Francisco Preller
 
-# PHP Technical Test Instructions
+### PHP Technical Test Instructions
 
 Provide a solution to the assignment described below.
 
@@ -9,7 +9,7 @@ You can use resources or reference material as an aid to design the solution, ho
 
 Please complete the assignment within 5 days and provide your source code and SQL in plain-text format.
 
-# The Assignment
+### The Assignment
 
 Provide a solution which records the first 10 statuses in your own twitter timeline. Store each status along with your twitter identifier in a normalised MySQL database.
 
